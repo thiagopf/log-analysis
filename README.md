@@ -26,12 +26,17 @@ What things you need to install the software
 Python 2.7
 Vagrant
 VirtualBox
+psycopg2
 ```
 ### Installing
 
 #### Python 2.7
 ```
 $ sudo apt install python2.7
+```
+#### psycopg2
+```
+sudo pip install psycopg2
 ```
 
 #### VirtualBox
